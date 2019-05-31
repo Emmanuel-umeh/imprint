@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695153433352",
+    "firebase_url": "https://fingerprintsample-bb789.firebaseio.com",
+    "project_id": "fingerprintsample-bb789",
+    "storage_bucket": "fingerprintsample-bb789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695153433352:android:302ee9e58ec3e7c1",
+        "android_client_info": {
+          "package_name": "com.danielogbuti.fingerprintsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695153433352-rq4uujrfbbaeq5vpgljdbu0k2qv4fjfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danielogbuti.fingerprintsample",
+            "certificate_hash": "8424cc559fc72f5ed626cd7fd416c8884f4b92fc"
+          }
+        },
+        {
+          "client_id": "695153433352-ltliifeeme28r038006bb7og9cmlko49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJLGQsVL0TEOcJTF0nLwdE3hExBAoSYBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695153433352-ltliifeeme28r038006bb7og9cmlko49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
