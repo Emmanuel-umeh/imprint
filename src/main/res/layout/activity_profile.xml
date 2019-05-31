@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:context=".ProfileActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="FirstName"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/firstName"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Lastname"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/lastName"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Date Of Birth"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/dateOfBirth"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Blood Group"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/bloodGroup"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Marital Status"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/maritalStatus"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Phone Number"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/phoneNumber"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Gender"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/gender"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/profileImage"
+        android:contentDescription="@null"
+        android:scaleType="centerCrop"
+
+        />
+
+
+</LinearLayout>
